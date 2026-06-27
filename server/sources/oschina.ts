@@ -1,1 +1,1 @@
-export default defineRSSSource("https://www.oschina.net/news/rss")
+export default defineRSSHubSource("/oschina/news")

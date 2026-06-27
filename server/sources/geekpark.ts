@@ -1,1 +1,1 @@
-export default defineRSSSource("https://rsshub.app/geekpark/breaking")
+export default defineRSSHubSource("/geekpark/breaking")

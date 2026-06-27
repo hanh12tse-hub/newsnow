@@ -1,1 +1,1 @@
-export default defineRSSSource("https://rsshub.app/tmtpost/index")
+export default defineRSSHubSource("/tmtpost/index")

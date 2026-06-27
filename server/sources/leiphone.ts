@@ -1,1 +1,1 @@
-export default defineRSSSource("https://rsshub.app/leiphone/newsfeed")
+export default defineRSSHubSource("/leiphone/newsfeed")

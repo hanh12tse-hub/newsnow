@@ -1,1 +1,1 @@
-export default defineRSSSource("http://www.ftchinese.com/rss/feed")
+export default defineRSSSource("https://www.ftchinese.com/rss/feed")

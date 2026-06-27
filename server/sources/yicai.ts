@@ -1,1 +1,1 @@
-export default defineRSSSource("https://rsshub.app/yicai/brief")
+export default defineRSSHubSource("/yicai/brief")
