@@ -1,0 +1,11 @@
+name = "newsnow"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2024-10-03"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+# 您在 Cloudflare D1 数据库中创建的数据库名称，例如：newsnow-db
+database_name = "newsnow-db"
+# 您在 Cloudflare 创建完数据库后生成的 Database ID (通常是一长串 UUID 格式，比如：xxxx-xxxx-xxxx-xxxx)
+# 请在这里填入您的实际 ID：
+database_id = "YOUR_DATABASE_ID_HERE"
