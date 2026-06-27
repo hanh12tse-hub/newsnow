@@ -31,7 +31,10 @@ const hotstock = defineSource(async () => {
   }))
 })
 
+const today = defineRSSSource("https://rsshub.app/xueqiu/today")
+
 export default defineSource({
   "xueqiu": hotstock,
   "xueqiu-hotstock": hotstock,
+  "xueqiu-today": today,
 })
